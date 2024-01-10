@@ -1,1 +1,2 @@
 # auto-createdeth-abi==1.5.3
+eth-abi==1.5.6
