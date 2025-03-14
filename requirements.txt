@@ -21,3 +21,4 @@ eth-abi==2.9.0
 aiohttp==2.3.2
 aiohttp==0.1.8
 aiohttp==0.7.0
+web3==2.3.8
